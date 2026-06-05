@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "sharepoint-media-library-v-1",
+    "libraryId": "7449dcf3-459c-455d-aa39-8f6f0d969342",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sharepoint-media-library-v-1",
+    "solutionShortDescription": "sharepoint-media-library-v-1 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

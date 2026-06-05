@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sharepoint-media-library-v-1-client-side-solution",
+    "id": "7449dcf3-459c-455d-aa39-8f6f0d969342",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sharepoint-media-library-v-1 description"
+      },
+      "longDescription": {
+        "default": "sharepoint-media-library-v-1 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sharepoint-media-library-v-1 Feature",
+        "description": "The feature that activates elements of the sharepoint-media-library-v-1 solution.",
+        "id": "d9e01686-1cfc-443a-a1cd-e53ab5123438",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sharepoint-media-library-v-1.sppkg"
+  }
+}
